@@ -1,4 +1,4 @@
-*, *::before, *::after {
+*, *::before, *::after {  
     box-sizing: border-box;
     font-family: Gotham Rounded, sans-serif;
     font-weight: normal;
@@ -56,3 +56,7 @@ body {
     color: white;
     font-size: 2.5rem;
 }
+
+
+
+//just a comment added
